@@ -1,0 +1,129 @@
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T10:40:08.313Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T10:40:08.321Z"}
+{"level":"info","message":"just test.","timestamp":"2017-10-20T10:40:25.849Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T10:41:49.336Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T10:41:49.339Z"}
+{"level":"info","message":"just test.","timestamp":"2017-10-20T10:41:52.148Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T10:43:37.469Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T10:43:37.474Z"}
+{"level":"info","message":"just test.","timestamp":"2017-10-20T10:43:39.872Z"}
+{"level":"error","message":"aaa","timestamp":"2017-10-20T10:43:39.873Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T10:44:19.254Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T10:44:19.258Z"}
+{"level":"info","message":"just test.","timestamp":"2017-10-20T10:44:25.643Z"}
+{"level":"warn","message":"aaa","timestamp":"2017-10-20T10:44:25.643Z"}
+{"level":"info","message":"just test.","timestamp":"2017-10-20T10:44:41.807Z"}
+{"level":"warn","message":"aaa","timestamp":"2017-10-20T10:44:41.807Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T10:44:48.500Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T10:44:48.503Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T10:45:04.329Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T10:45:04.332Z"}
+{"level":"warn","message":"aaa","timestamp":"2017-10-20T10:45:08.373Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T10:45:48.361Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T10:45:48.364Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T10:45:57.069Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T10:45:57.072Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T10:46:42.659Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T10:46:42.662Z"}
+{"level":"info","message":"just test.","timestamp":"2017-10-20T10:46:46.310Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T10:47:15.855Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T10:47:15.862Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T10:47:46.184Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T10:47:46.188Z"}
+{"level":"info","message":"waiting...","timestamp":"2017-10-20T11:09:18.221Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T11:09:18.243Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T11:09:18.244Z"}
+{"level":"info","message":"waiting...","timestamp":"2017-10-20T11:09:32.110Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T11:09:32.128Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T11:09:32.128Z"}
+{"level":"info","message":"waiting...","timestamp":"2017-10-20T11:09:59.465Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T11:09:59.485Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T11:09:59.486Z"}
+{"level":"info","message":"waiting...","timestamp":"2017-10-20T11:10:48.747Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T11:10:48.770Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T11:10:48.770Z"}
+{"level":"info","message":"waiting...","timestamp":"2017-10-20T11:10:52.423Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T11:10:52.441Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T11:10:52.441Z"}
+{"level":"info","message":"waiting...","timestamp":"2017-10-20T11:10:56.082Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T11:10:56.100Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T11:10:56.100Z"}
+{"level":"info","message":"waiting...","timestamp":"2017-10-20T11:10:59.315Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T11:10:59.332Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T11:10:59.333Z"}
+{"level":"info","message":"waiting...","timestamp":"2017-10-20T11:11:02.570Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T11:11:02.589Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T11:11:02.590Z"}
+{"level":"info","message":"waiting...","timestamp":"2017-10-20T11:11:06.282Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T11:11:06.300Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T11:11:06.301Z"}
+{"level":"info","message":"waiting...","timestamp":"2017-10-20T11:12:18.215Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T11:12:18.235Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T11:12:18.235Z"}
+{"level":"info","message":"waiting...","timestamp":"2017-10-20T11:13:27.960Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T11:13:27.980Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T11:13:27.981Z"}
+{"level":"info","message":"waiting...","timestamp":"2017-10-20T11:14:25.533Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T11:14:25.552Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T11:14:25.553Z"}
+{"level":"info","message":"waiting...","timestamp":"2017-10-20T11:15:43.193Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T11:15:43.213Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T11:15:43.214Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T11:17:02.430Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T11:17:02.434Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T11:18:11.305Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T11:18:11.307Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T11:18:45.785Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T11:18:45.789Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T11:21:59.671Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T11:21:59.673Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T11:24:55.760Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T11:24:55.762Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T11:28:11.254Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T11:28:11.257Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T11:28:44.910Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T11:28:44.912Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T11:29:49.461Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T11:29:49.463Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T11:30:23.599Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T11:30:23.602Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T11:30:51.590Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T11:30:51.593Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T11:31:46.090Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T11:31:46.093Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-20T11:44:06.494Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-20T11:44:06.497Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-21T02:25:47.931Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-21T02:25:47.934Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-21T02:32:51.567Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-21T02:32:51.570Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-21T03:12:42.351Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-21T03:12:42.353Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-21T03:13:20.263Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-21T03:13:20.265Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-21T03:13:21.325Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-21T03:13:21.327Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-21T03:15:38.401Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-21T03:15:38.404Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-21T03:16:04.058Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-21T03:16:04.062Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-21T03:17:02.420Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-21T03:17:02.423Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-21T03:18:04.717Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-21T03:18:04.720Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-21T03:18:25.435Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-21T03:18:25.437Z"}
+{"level":"info","message":"waiting...","timestamp":"2017-10-21T13:37:16.700Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-21T13:37:16.714Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-21T13:37:16.714Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-21T15:15:20.750Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-21T15:15:20.753Z"}
+{"level":"info","message":"waiting...","timestamp":"2017-10-21T15:18:23.490Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-21T15:18:23.501Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-21T15:18:23.502Z"}
+{"level":"info","message":"waiting...","timestamp":"2017-10-21T15:18:56.243Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-21T15:18:56.254Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-21T15:18:56.255Z"}
+{"level":"info","message":"server is starting at port 3001","timestamp":"2017-10-21T15:21:39.783Z"}
+{"level":"info","message":"open http://127.0.0.1:3001","timestamp":"2017-10-21T15:21:39.787Z"}
+{"level":"info","message":"waiting for update date...","timestamp":"2017-10-21T15:21:39.787Z"}

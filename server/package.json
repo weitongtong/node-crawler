@@ -1,0 +1,22 @@
+{
+  "name": "node-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node start.js",
+    "nodemon": "nodemon start.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "cheerio": "^1.0.0-rc.2",
+    "crypto": "^1.0.1",
+    "iconv-lite": "^0.4.19",
+    "koa": "^2.3.0",
+    "koa-logger": "^3.1.0",
+    "koa-static": "^4.0.1",
+    "winston": "^2.4.0"
+  }
+}
