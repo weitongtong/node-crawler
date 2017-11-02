@@ -74,7 +74,9 @@ function getBtLink(hrefs) {
   return hrefs.map((val) => {
     return getRequestChunk(`http://www.ygdy8.net/${val}`, 'gb2312').then((str) => {
       const $ = cheerioLoad(str)
-      return $('#Zoom td a').eq(0).attr('href')
+      return {
+        bt: $('#Zoom td a').eq(0).attr('href'),
+      }
     })
   })
 }

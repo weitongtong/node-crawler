@@ -1,11 +1,10 @@
 module.exports = {
   port: 3001,
   fetcher: {
-    type: 'bt',
-    keyword: '123',
+    type: 'index',
   },
   db: {
-    fileName: 'bt',
+    fileName: 'data',
     type: 'local',
   },
 }
