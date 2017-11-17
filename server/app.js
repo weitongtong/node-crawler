@@ -30,4 +30,4 @@ log.info(`server is starting at port ${config.port}`)
 log.info(`open http://127.0.0.1:${config.port}`)
 
 // 启动定时任务（指定时间点更新库里的数据）
-// schedule.start()
+schedule.start()
